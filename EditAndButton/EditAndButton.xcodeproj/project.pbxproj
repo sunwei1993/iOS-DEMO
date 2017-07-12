@@ -516,6 +516,7 @@
 				FFC47F3B1F04D5A400D3D24F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FFC47F3C1F04D5A400D3D24F /* Build configuration list for PBXNativeTarget "EditAndButtonTests" */ = {
 			isa = XCConfigurationList;
@@ -524,6 +525,7 @@
 				FFC47F3E1F04D5A400D3D24F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FFC47F3F1F04D5A400D3D24F /* Build configuration list for PBXNativeTarget "EditAndButtonUITests" */ = {
 			isa = XCConfigurationList;
@@ -532,6 +534,7 @@
 				FFC47F411F04D5A400D3D24F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
